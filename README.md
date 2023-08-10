@@ -56,7 +56,10 @@ This project imitates the work of a cinema service. The project has been built o
 - configure the database connection parameters in the resources/db.properties file;
 - configure a local Tomcat configuration in your IDE;
 - run the Tomcat configuration and deploy the application;
-
+- when the program starts, two users are added to the database, you can log in both (you can use Postman to send some http request)
+## Credentials
+- admin credentials: `admin@gmail.com` and `admin123`
+- user credentials: `user@gmail.com` and `user123` 
 
 
 
